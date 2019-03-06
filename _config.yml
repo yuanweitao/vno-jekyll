@@ -17,20 +17,20 @@ tags_path : tags.html
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://yanshinian.com
 
-description : 物尽其用！人尽其才！两全其美！
-title : 言十年的博客
+description : 天道酬勤，为在人心！关爱单身狗！关爱大龄儿童！
+title : 袁威涛的博客
 logo : /avatar.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: 言十年
+  name: 袁威涛
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
   email: yan@yanshinian.com
   github: yanshinian
   twitter: yanshinian
-  facebook: 言十年
-  googleplus: +十年
-  bio: "我是言十年，互相学习，互相进步"
+  facebook: 袁威涛
+  googleplus: +袁威涛
+  bio: "我是袁威涛，互相学习，互相进步"
   uno-dbyll: /avatar.jpg
